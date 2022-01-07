@@ -10,7 +10,8 @@ Mit dem Befehl kann man sich zum Spawn teleportieren.
 ```mcfunction
 tp @p @e[name=spawnpoint]
 ```
-Weitere Namen sind:
+Die Namen sind:
+- spawnpoint
 - spawnrot1
 - spawnblau2
 - spawnschwarz3
