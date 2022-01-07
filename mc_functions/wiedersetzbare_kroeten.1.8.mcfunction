@@ -1,8 +1,14 @@
-#unten
+# init (einmalig)
+# scoreboard erstellen
+scoreboard objectives add roboitem dummy
+
+# clock unten
 fill ~ ~1 ~ ~11 ~1 ~ stone
-#oben
+# clock oben
 fill ~ ~-1 ~ ~11 ~-1 ~ redstone_block
 
+
+# jeden tick:
 # init all turtles
 scoreboard players add @e[type=Item] roboitem 0 {Item:{id:"computercraftedu:CC-TurtleJunior",Damage:0s,Count:1b}}
 # anfänger turtle
