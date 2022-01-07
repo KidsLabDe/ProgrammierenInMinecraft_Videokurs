@@ -5,6 +5,21 @@ um z.B. abgebaute RoboKröten wieder in Adventuremodus setzen zu können, oder d
 ## hilfreiche webseiten:
 - MC befehle generieren https://mcstacker.bimbimma.com/mcstacker1.10.php
 
+## teleport punkte
+Mit dem Befehl kann man sich zum Spawn teleportieren.
+```mcfunction
+tp @p @e[name=spawnpoint]
+```
+Weitere Namen sind:
+- spawnrot1
+- spawnblau2
+- spawnschwarz3
+- spawngelb4
+- spawngruen5
+- spawnorange6
+- spawnhellblau7
+- spawnlila8
+
 ## gamerules for server
 ```mcfunction
 gamerule doMobSpawning false

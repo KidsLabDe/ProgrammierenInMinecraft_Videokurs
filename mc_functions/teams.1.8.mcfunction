@@ -9,6 +9,8 @@ scoreboard teams join rot1 KingBBQ42
 
 # teleportier spieler tu marker rüstungsständer mit name
 # erstelle rüstungsständer
-summon ArmorStand ~ ~1 ~ {CustomName:"spawnrot1",NoGravity:1b,Marker:1b,Invisible:1}
-# tp nearest player
+summon ArmorStand ~ ~1 ~ {NoGravity:1b,Marker:1b,Invisible:1,CustomName:"spawnrot1"}
+# tp nächsten spieler zu rüstungsständer
 tp @p @e[type=ArmorStand,name=spawnrot1]
+# spawn rüstungsständer ausrichten mit blickrichtung für teleport
+tp @e[name=spawnrot1] @p
