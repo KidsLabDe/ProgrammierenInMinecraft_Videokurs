@@ -20,6 +20,12 @@ Die Namen sind:
 - spawnorange6
 - spawnhellblau7
 - spawnlila8
+- haendler
+
+## redstone und cmdb conventions
+roter lehm = wird öfter mit redstone_block getauscht
+sandstein = oben drauf gehört redstone (falls was kaputt ging, zum erkennen)
+komplexere befehls gruppen hier im repo dokumentieren
 
 ## gamerules for server
 ```mcfunction
