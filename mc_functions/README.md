@@ -31,6 +31,10 @@ tellraw @p ["0 Punkt haben: ",{"selector":"@e[score_punkte=0,score_punkte_min=0]
 tellraw @p ["1 Punkt haben: ",{"selector":"@e[score_punkte=1,score_punkte_min=1]"}]
 # 2 punkte
 tellraw @p ["2 Punkt haben: ",{"selector":"@e[score_punkte=2,score_punkte_min=2]"}]
+
+# 'Alle' Punkte rechts anzeigen:
+scoreboard objectives setdisplay sidebar punkte
+
 ```
 
 ## redstone und cmdb conventions
