@@ -24,6 +24,8 @@ Die Namen sind:
 
 ## Wer hat wieviel punkt?
 ```mcfunction
+# 0 Punkte
+tellraw @p ["0 Punkt haben: ",{"selector":"@e[score_punkte=0,score_punkte_min=0]"}]
 # 1 punkt
 tellraw @p ["1 Punkt haben: ",{"selector":"@e[score_punkte=1,score_punkte_min=1]"}]
 # 2 punkte
