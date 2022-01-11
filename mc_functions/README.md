@@ -22,6 +22,14 @@ Die Namen sind:
 - spawnlila8
 - haendler
 
+## Wer hat wieviel punkt?
+```mcfunction
+# 1 punkt
+tellraw @p ["1 Punkt haben: ",{"selector":"@e[score_punkte=1,score_punkte_min=1]"}]
+# 2 punkte
+tellraw @p ["2 Punkt haben: ",{"selector":"@e[score_punkte=2,score_punkte_min=2]"}]
+```
+
 ## redstone und cmdb conventions
 roter lehm = wird öfter mit redstone_block getauscht
 sandstein = oben drauf gehört redstone (falls was kaputt ging, zum erkennen)
