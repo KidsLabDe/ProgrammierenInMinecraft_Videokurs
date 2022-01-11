@@ -3,7 +3,8 @@ hier sind die Befehle, die in TurtleCity und in den Worksop Welten gebraucht wer
 um z.B. abgebaute RoboKröten wieder in Adventuremodus setzen zu können, oder den Spielmodus abhängig von der Region auf Turtile City umschalten zu können.
 
 ## hilfreiche webseiten:
-- MC befehle generieren https://mcstacker.bimbimma.com/mcstacker1.10.php
+- MC befehle generieren: https://mcstacker.bimbimma.com/mcstacker1.10.php
+- Tellraw generieren: https://www.minecraftjson.com/
 
 ## teleport punkte
 Mit dem Befehl kann man sich zum Spawn teleportieren.
