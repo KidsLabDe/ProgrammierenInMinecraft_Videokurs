@@ -32,6 +32,6 @@ weather clear 1000000
 
 # toggle visibility of armorstand names
 # off
-entitydata @e[type=ArmorStand] {CustomNameVisible:0}
+entitydata @e[type=ArmorStand,team=nametoggle] {CustomNameVisible:0}
 # on
-entitydata @e[type=ArmorStand] {CustomNameVisible:1}
+entitydata @e[type=ArmorStand,team=nametoggle] {CustomNameVisible:1}

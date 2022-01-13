@@ -39,6 +39,13 @@ scoreboard objectives setdisplay sidebar punkte
 
 ```
 
+## schwebender Text:
+Was hat dir gefallen?
+```mcfunction
+summon ArmorStand ~ ~1 ~ {NoGravity:1b,Marker:1b,Invisible:1,CustomName:"Was hat dir gefallen?"}
+entitydata @e[type=ArmorStand,r=3] {CustomNameVisible:1}
+```
+
 ## redstone und cmdb conventions
 roter lehm = wird öfter mit redstone_block getauscht
 sandstein = oben drauf gehört redstone (falls was kaputt ging, zum erkennen)
