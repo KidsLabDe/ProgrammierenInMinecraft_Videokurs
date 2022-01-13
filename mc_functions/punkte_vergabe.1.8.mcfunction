@@ -1,3 +1,13 @@
+# in lehrerzimmer:
+# min 2 punkte für alle (an der clock):
+scoreboard players set @a[socre_punkte=2] punkte 2
+# knopfwand für punkte anzeigen wer wieviele hat:
+tellraw @a[score_isadmin_min=1] ["0 Punkt haben: ",{"selector":"@e[score_punkte=0,score_punkte_min=0]"}]
+tellraw @a[score_isadmin_min=1] ["1 Punkt haben: ",{"selector":"@e[score_punkte=1,score_punkte_min=1]"}]
+tellraw @a[score_isadmin_min=1] ["2 Punkt haben: ",{"selector":"@e[score_punkte=2,score_punkte_min=2]"}]
+tellraw @a[score_isadmin_min=1] ["3 Punkt haben: ",{"selector":"@e[score_punkte=3,score_punkte_min=3]"}]
+# ...
+
 # 1. punkte für melone
 # bei hauptklock
 scoreboard players add @a punkte 0
