@@ -1,6 +1,6 @@
 # MC Befehle
 hier sind die Befehle, die in TurtleCity und in den Worksop Welten gebraucht werden,  
-um z.B. abgebaute RoboKröten wieder in Adventuremodus setzen zu können, oder den Spielmodus abhängig von der Region auf Turtile City umschalten zu können.
+um z.B. abgebaute RoboKröten wieder im Adventuremodus setzen zu können, oder den Spielmodus abhängig von der Region auf Turtile City umschalten zu können.
 
 ## hilfreiche webseiten:
 - MC befehle generieren: https://mcstacker.bimbimma.com/mcstacker1.10.php
@@ -22,6 +22,8 @@ Die Namen sind:
 - spawnhellblau7
 - spawnlila8
 - haendler
+
+alle challenges sind 23 blöcke auseinander
 
 ## Wer hat wieviel punkt?
 ```mcfunction
