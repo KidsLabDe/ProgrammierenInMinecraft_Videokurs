@@ -35,3 +35,11 @@ weather clear 1000000
 entitydata @e[type=ArmorStand,team=nametoggle] {CustomNameVisible:0}
 # on
 entitydata @e[type=ArmorStand,team=nametoggle] {CustomNameVisible:1}
+
+
+# tp players to spawn after reconnect
+## init
+scoreboard objectives add joined stat.leaveGame
+## clock
+tp @a[score_joined_min=1] @e[name=spawnpoint]
+scoreboard players set @a joined 0
