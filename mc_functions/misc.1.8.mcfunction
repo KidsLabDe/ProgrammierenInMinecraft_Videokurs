@@ -29,12 +29,18 @@ execute @a ~ ~ ~ detect ~ ~-1 ~ quartz_block 0 effect @p clear
 # wetter schön (gamerule dafür kommt erst in neueren versionen)
 weather clear 1000000
 
+# nachtsicht, um selber mehr zu sehen
+effect @p minecraft:night_vision 100000 1 true
+
 
 # toggle visibility of armorstand names
+## init
+scoreboard objectives add nametoggle dummy
+
 # off
-entitydata @e[type=ArmorStand,team=nametoggle] {CustomNameVisible:0}
+entitydata @e[type=ArmorStand,score_nametoggle_min=1] {CustomNameVisible:0}
 # on
-entitydata @e[type=ArmorStand,team=nametoggle] {CustomNameVisible:1}
+entitydata @e[type=ArmorStand,score_nametoggle_min=1] {CustomNameVisible:1}
 
 
 # tp players to spawn after reconnect
