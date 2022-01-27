@@ -18,8 +18,13 @@ scoreboard objectives add levelrech dummy
 scoreboard players set current level 1
 
 ## trigger after set / on clock
-scoreboard players set @e[type=ArmorStand,score_level_min=1] levelrech 0
-execute @e[type=ArmorStand,score_level_min=1] ~ ~ ~ scoreboard players operation @e[r=0] levelrech += @e[r=0] level
+### execute somehow does not work on some ArmorStands there ... :(
+# execute @e[type=ArmorStand,score_level_min=1] ~ ~ ~ scoreboard players operation @e[r=0] levelrech = @e[r=0] level
+### copy level to level rech for each level....
+scoreboard players set @e[score_level_min=1] levelrech 1
+scoreboard players set @e[score_level_min=2] levelrech 2
+scoreboard players set @e[score_level_min=3] levelrech 3
+# ...
 scoreboard players operation @e[type=ArmorStand,score_level_min=1] levelrech -= current level
 
 ## the teleport command (for each team)
