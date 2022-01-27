@@ -1,5 +1,8 @@
 # switches gamemode on click of carrot on a stick
+## init 
+scoreboard objectives add use_carrotstick stat.useItem.minecraft.carrot_on_a_stick
 
+## clock
 # set gamemode 3
 gamemode 3 @a[score_isadmin_min=1,score_use_carrotstick_min=1]
 # reset carrot use
