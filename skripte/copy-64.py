@@ -3,7 +3,7 @@ import time
 
 PLAYER = 'MatzE_'
 WORLD = 'StreamingKurs-0-Template'
-DELAY = 0.2
+DELAY = 0.1
 
 CLONE = f'execute {PLAYER} ~ ~ ~ clone 13 15 184 32 19 155 ~-1 ~-3 ~-30'
 TP_WEITER = f'tp {PLAYER} ~23 ~ ~'
