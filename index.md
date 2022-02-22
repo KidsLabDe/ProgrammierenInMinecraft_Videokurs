@@ -18,6 +18,12 @@ Für die Stunden gibt es jeweils Lernkarten, die als Hilfe in der Stunde dienen.
 
 
 
+## Lösungen
+
+Die Lösungen für die einzelnen Stunden findest Du unter [Lösungen](/Lösungen/readme.md)
+
+
+
 ### Support und Kontakt
 
 Gerne können die Inhalte von Lehrern oder Erziehern für eigene Stunden genutzt werden. Die Inhalte stehen untec Creative Commons Lizenz: Namensnennung-Nicht (CC BY-NC).
