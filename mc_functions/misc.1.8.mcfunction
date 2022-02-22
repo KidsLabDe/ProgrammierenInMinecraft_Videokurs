@@ -49,3 +49,7 @@ scoreboard objectives add joined stat.leaveGame
 ## clock
 tp @a[score_joined_min=1] @e[name=spawnpoint]
 scoreboard players set @a joined 0
+
+
+# reset alle smaragd mäher:
+fill -916 16 -163 717 16 -163 minecraft:redstone_block 0 replace minecraft:stained_hardened_clay 14
