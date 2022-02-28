@@ -57,3 +57,7 @@ fill -916 16 -163 717 16 -163 minecraft:redstone_block 0 replace minecraft:stain
 fill 717 16 -111 -916 16 -111 minecraft:redstone_block 0 replace minecraft:stained_hardened_clay 14
 # reset all auto labyrinth 2:
 fill 716 16 -190 -917 16 -190 minecraft:redstone_block 0 replace minecraft:stained_hardened_clay 14
+
+
+# worldedit befehl zufällige prozent anteile set:
+`//set 2%sapling:2,2%sapling:0,2%sapling:1,94%air`
