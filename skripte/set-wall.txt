@@ -1,0 +1,7 @@
+untersten block von der mauer kopieren
+und in richtung der mauer schauen
+
+
+//expand 3 up
+//expand 1565
+//replace air brick
