@@ -68,6 +68,6 @@ gamerule sendCommandFeedback false
 ```
 
 ## Turtle City
-gamemode in verschiedenen berechen ändern
-dokumentiert in [gamemode_in_bereich](/mc_functions/gamemode_in_bereich.1.8.mcfunction)
-commandblöcke dazu sind hier: -258 72 188
+### gamemode in verschiedenen berechen ändern
+dokumentiert in [gamemode_in_bereich](/mc_functions/gamemode_in_bereich.1.8.mcfunction)  
+CommandBlöcke dazu sind hier: -258 72 188
