@@ -66,3 +66,7 @@ gamerule logAdminCommands false
 # stops gamemode changed message spaming player chat, aber 'true' ist manchmal hilfreich bei befehlen
 gamerule sendCommandFeedback false
 ```
+
+## Turtle City
+gamemode in verschiedenen berechen ändern
+dokumentiert in [gamemode_in_bereich](/mc_functions/gamemode_in_bereich.1.8.mcfunction)
