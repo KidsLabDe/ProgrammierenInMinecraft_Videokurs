@@ -27,17 +27,19 @@ Server „Fehler 0“ – Microsoft Konto & Kindereinstellungen
 # Kurze Einführung
 
 # Vorstellung 
-
+<!-- MatzE -->
 ![](img/Programmieren%20in%20Minecraft%20-%20Level%201_4.png)
 
+<!-- Regine -->
 ![](img/Programmieren%20in%20Minecraft%20-%20Level%201_5.png)
 
+<!-- KingBBQ -->
 ![](img/Programmieren%20in%20Minecraft%20-%20Level%201_6.png)
 
+<!-- Layre -->
 ![](img/Programmieren%20in%20Minecraft%20-%20Level%201_7.png)
 
-![](img/Programmieren%20in%20Minecraft%20-%20Level%201_8.png)
-
+<!-- Steuerung -->
 ![](img/Programmieren%20in%20Minecraft%20-%20Level%201_9.png)
 
 # Steuerung mit dem PC
