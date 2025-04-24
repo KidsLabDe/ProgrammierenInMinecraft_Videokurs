@@ -19,6 +19,7 @@ scoreboard players set current level 1
 
 ## trigger after set / on clock
 ### execute somehow does not work on some ArmorStands there ... :(
+    ### They are probably not chunk loaded :/
 # execute @e[type=ArmorStand,score_level_min=1] ~ ~ ~ scoreboard players operation @e[r=0] levelrech = @e[r=0] level
 ### copy level to level rech for each level....
 scoreboard players set @e[score_level_min=1] levelrech 1

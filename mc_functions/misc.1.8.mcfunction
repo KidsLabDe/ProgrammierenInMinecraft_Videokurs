@@ -8,6 +8,7 @@ scoreboard players set MatzE_ isadmin 1
 gamerule sendCommandFeedback false
 
 # alles (auch custom npc) auser sich töten
+### really? did not work for buttlers?
 kill @e[rm=1]
 
 # setzt server spawnpunkt
