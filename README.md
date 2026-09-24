@@ -169,12 +169,15 @@ Diese Mauern trennen die Level und können zu Beginn der Kursstunde weggemacht w
 Jeder Hebel hier kontrolliert eine Mauer
 - Hebel oben: Mauer weg
 - Hebel unten: Mauer da
-##### Kurs Ausgangspunkt setzen:
-im technikraum gibt es für Mentoren auch die Möglichkeit den Punkt zu ändern an den die teilnehmer teleportiert werden sobald sie sich die raum nummer aussuchen:
-...teleport-ziel-switcher.png...
+##### Kurs-Ausgangspunkt setzen:
+Im Technikraum gibt es für Mentoren auch die Möglichkeit, den Punkt zu ändern, an den die Teilnehmer teleportiert werden, sobald sie sich die Raumnummer aussuchen:  
+Teleport-Ziel-Switcher:  
+![Teleport-Ziel-Switcher](Screenshots/teleport-ziel-switcher.png)  
+drückt man hier Anfang, so werden teilnehmer zum Anfang teleportiert.
+![Anfang](Screenshots/teleport-ziel-anfang.png)
 
-besonders wichtig ist diese einstellung bei der hochbauchallenge, da diese nur über den teleport erreichbar ist.
-...hoch_bau_challenge.png...
+Besonders wichtig ist diese Einstellung bei der Hochbau-Challenge, da diese nur über den Teleport erreichbar ist.  
+![Hochbau-Challenge](Screenshots/hoch_bau_challenge.png)
 
 
 __Hinweise__:
