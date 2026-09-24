@@ -41,69 +41,77 @@ Nach Ablauf der Breakout-Räume folgt eine gemeinsame Frage-/Showcase-Runde und 
 Feedback an die Mentoren fragen; Teilnehmer können in der Welt hinter dem Spawn Feedback loswerden.
 
 ### Einzelne Stunden:
-Schildkröte kennenlernen
+**Schildkröte kennenlernen**
 
 Schildkröte kennenlernen, um mit der Fernbedienung den mysteriösen Gegenstand zu finden.
-Präsentation 1
+
+[Präsentation 1](Folien/Stunde%201%20-%20MC%20Turtlekurs.pdf)
 
 Video-Erklärung: (alte Welt)
-YouTube Video
-Labyrinth
+[YouTube Video](https://www.youtube.com/watch?v=3BofqEGoCDA)
+
+
+**Labyrinth**
 
 Der Schildkröte den Weg durchs Labyrinth beibringen.
-Präsentation 2
+
+[Präsentation 2](Folien/Stunde%202%20%E2%80%93%20MC%20Turtle%20Online-2.pdf)
 
 Video-Erklärung: (alte Welt)
-YouTube Video
+[YouTube Video](https://www.youtube.com/watch?v=zgrJB9xQ2HQ)
 
 
-Treppenbau-Challenge
+**Treppenbau-Challenge**
 
 Hier lernen wir Schleifen.
-Präsentation 3
+
+[Präsentation 3](Folien/Stunde%203%20%E2%80%93%20MC%20Turtle%20Online.pdf)
 
 
-Turtle City
+**Turtle City**
 
 Heute schauen wir uns Turtle City an.
 Statt Folien zeigen wir hier https://handbuch.kidslab.de/minecraft/turtlecity
-Turtle City
 
-
-Smaragdmäher
+**Smaragdmäher**
 
 Hier lernen wir Schleifen in Schleifen, sehr mächtig.
-Präsentation 4
+
+[Präsentation 4](Folien/Stunde%204%20%E2%80%93%20Smaragd%20m%C3%A4her%20%E2%80%93%20MC%20Turtle%20Online.pdf)
 
 
-Smaragdmäher ohne Zählen
+**Smaragdmäher ohne Zählen**
 
 Die Schildkröte kann selber erkennen, wann sie umdrehen muss.
 Falls ... Dann ...
-Präsentation 5
+
+[Präsentation 5](Folien/Stunde%205%20-%20Wenn-Dann%20%E2%80%93%20MC%20Turtle%20Online.pdf)
 
 
-Zufalls-Labyrinth
+**Zufalls-Labyrinth**
 
 Noch mehr:
 Was ist, wenn ...
 Falls ... Dann ... abfragen.
 Die Schildkröte lernt, selber zu entscheiden.
-Präsentation 6
+
+[Präsentation 6](Folien/Stunde%206%20AutoLabyrinth%20%E2%80%93%20MC%20Turtle%20Online-1.pdf)
 
 
-Holz fällen
+**Holz fällen**
 
 Jetzt darf die Schildkröte arbeiten gehen.
 Wir lernen, Zufall zu nutzen und Unterprogramme zu starten.
-Präsentation 7
+
+[Präsentation 7](Folien/Stunde%207%20Holz%20F%C3%A4llen%20%E2%80%93%20MC%20Turtle%20Online-2.pdf)
 
 
-Code'n'Run
+**Code'n'Run**
 
 Finale Challenge
 Alles zusammen
-Präsentation 8
+
+[Präsentation 8](Folien/Stunde%208%20%E2%80%93%20Code%20n%20run%20%E2%80%93%20MC%20Turtle%20Online.pdf)
 
 
 ## Serverinfrastruktur
