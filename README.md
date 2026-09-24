@@ -36,7 +36,7 @@ Wir beginnen immer mit dem Theorieteil: Folien mit der Mechanik, die gelernt wir
 Dann evtl. Fragen in großer Runde, damit nichts falsch verstanden wurde.  
 Dann Breakout-Rooms in Gruppen von 2-8 Teilnehmern, die dann untereinander reden und sich beim Aufgabenlösen helfen können.  
 Die Mentoren wandern dann von Raum zu Raum und helfen bei Fragen.  
-Fertige Teilnehmer können sich am Spawn mit der erspielten Belohnung Cosmetics kaufen ...shop.png...  
+Fertige Teilnehmer können sich am Spawn mit der erspielten Belohnung Cosmetics kaufen ![shop](Screenshots/shop.png)  
 Nach Ablauf der Breakout-Räume folgt eine gemeinsame Frage-/Showcase-Runde und evtl. wird eine Musterlösung gezeigt.  
 Feedback an die Mentoren fragen; Teilnehmer können in der Welt hinter dem Spawn Feedback loswerden.
 
@@ -133,7 +133,7 @@ erlaubt das Nutzen von Befehlen wie /op weitererMentor, /tp, /give oder /gamemod
 - Beim Betreten wird man immer zum Start teleportiert; dies ermöglicht jedem Teilnehmer, zurückzukehren, z. B. falls er/sie sich eingesperrt hat.
 - Jeder Spieler (auch Mentoren) wird beim Betreten in den Abenteuermodus gesetzt (nichts abbauen, nicht fliegen etc.). Mit dem Befehl `/gamemode creative` können Mentoren in den Kreativmodus wechseln.
 #### Karottenrute
-...carrot_on_a_stick_inv.png...  
+![Karottenrute](Screenshots/carrot_on_a_stick_inv.png)  
 damit Rechtsklick -> Zuschauermodus: durch Blöcke fliegen  
 im Zuschauermodus Mausrad scrollen: schneller / langsamer fliegen  
 im Zuschauermodus gerade nach oben schauen: zurück in den Kreativmodus  
@@ -145,7 +145,7 @@ Befehle gibt man mit "/" im Chat ein. Also Chat mit "t" öffnen, dann "/" und da
 tp = teleport und teleportiert dich oder Teilnehmer
 
 **Beispiel**  
-...tp_beispiel.png...  
+![tp Beispiel](Screenshots/tp_beispiel.png)  
 ```/tp SpielerName```  
 teleportiert dich zu dem Spieler, der SpielerName heißt
 
@@ -163,9 +163,9 @@ teleportiert alle zu dir.
 
 #### Technikraum / Lehrerzimmer:
 ##### Mauern:
-...mauern.png...  
+![Mauern](Screenshots/mauern.png)  
 Diese Mauern trennen die Level und können zu Beginn der Kursstunde weggemacht werden, wenn das Level dahinter erreichbar sein soll.  
-...mauer_hebel_technik_raum.png...  
+![Mauer-Hebel im Technikraum](Screenshots/mauer_hebel_technik_raum.png)  
 Jeder Hebel hier kontrolliert eine Mauer
 - Hebel oben: Mauer weg
 - Hebel unten: Mauer da
