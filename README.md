@@ -162,6 +162,8 @@ teleportiert alle zum Anfang
 teleportiert alle zu dir.
 
 #### Technikraum / Lehrerzimmer:
+Neben dem Spawn ist eine kleine Burg. Mentoren können sich in den Technikraum teleportieren, wenn sie sich auf die Druckplatte stellen.  
+![Zugang zum Lehrerzimmer](Screenshots/zugang-lehrerzimmer.png)
 ##### Mauern:
 ![Mauern](Screenshots/mauern.png)  
 Diese Mauern trennen die Level und können zu Beginn der Kursstunde weggemacht werden, wenn das Level dahinter erreichbar sein soll.  
