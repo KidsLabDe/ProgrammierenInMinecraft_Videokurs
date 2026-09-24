@@ -1,4 +1,4 @@
-# Programmieren lernen in Minecraft - OnlineKurs
+# Programmieren lernen in Minecraft - Online-Kurs
 
 In diesem Repositorium findest Du alles, was zum Videokurs "Programmieren in Minecraft" gehört.
 
@@ -7,66 +7,66 @@ Mehr Infos zum Kurs findest Du auf meiner Webseite: https://kidslab.de/minecraft
 Fragen gerne per Mail: gregor@kidslab.de oder matze@kidslab.de
 
 # Willkommen zum "Programmieren in Minecraft" Videokurs!
-Bei dem kurs lernen kinder in minecraft die grundprinzipien vom programmieren, ablauf, schleifen, bedingungen, funktionen ...
-zielgruppen alter: ab 10 Jahren
-umfang: 8 stunden á 60min
-benötigt: minecraft java lizenzen, rechner, serverinfrastruktur, maus + tastatur, Server (hier mit docker vorbereitet)
+Bei dem Kurs lernen Kinder in Minecraft die Grundprinzipien vom Programmieren: Ablauf, Schleifen, Bedingungen, Funktionen ...
+- Zielgruppenalter: ab 10 Jahren
+- Umfang: 8 Stunden à 60 min
+- Benötigt: Minecraft-Java-Lizenzen, Rechner, Maus + Tastatur, Server (hier mit Docker vorbereitet)
 
-## In diesem Reop:
+## In diesem Repo:
 
 **Lernkarten:**
 
 Für die Stunden gibt es jeweils Lernkarten, die als Hilfe in der Stunde dienen. Dort sind die wichtigen Befehle und Aufgaben noch mal vermerkt.
-Werden aktuell nicht aktiv eingesetzt. Möglicherweise veraltet
+Werden aktuell nicht aktiv eingesetzt. Möglicherweise veraltet.
 
 **Folien zu den einzelnen Stunden:**
 
-Sind jeweils in "Folien"
+Sind jeweils in "Folien".
 
 **Lösungen:**
 
-Die Lösungen für die einzelnen Stunden findest Du unter [Lösungen](/Lösungen/readme.md)
+Die Lösungen für die einzelnen Stunden findest Du unter [Lösungen](/Lösungen/readme.md).
 
-## Kurs Ablauf
-### vor der ersten kursstunde
-1 termin technik check
-eine möglichkeit bigbluebutton, mikrofon, minecraft mod installation etc zu testen, und noch hilfe hierfür anzubieten, damit im kurs alles glatt läuft, und nicht einzelne die die mod noch nicht haben nicht mitmachen können / denen zu helfen alle anderen ausbremst.
+## Kursablauf
+### Vor der ersten Kursstunde
+1 Termin **Technik-Check**
+Eine Möglichkeit, BigBlueButton, Mikrofon, Minecraft-Mod-Installation etc. zu testen und noch Hilfe hierfür anzubieten, damit im Kurs alles glatt läuft und nicht einzelne, die die Mod noch nicht haben, nicht mitmachen können bzw. einzelnen Helfen alle anderen ausbremst.
 ### Jede Kursstunde
-Wir beginnen immer mit dem theorie teil, folien mit der mechanik die gelernt wird. und dann die aufgabenstellung
-dann evtl fragen in großer runde, dass nichts falsch verstanden wurde
-dann breakout rooms in gruppen von 2-8 teilnehmern die dann untereinander reden und sich helfen könenn beim aufgaben lösen.
-die Mentoren wandern dann von raum zu raum und helfen bei fragen
-fertige teilnehmer können sich am spawn mit der erspielten belohung cosmetics kaufen ...shop.png...
-nach ablauf der breakout räume, gemeinsame frage / showcase runde, und evtl eine musterlösung zeigen.
-feedback an die mentoren fragen, teilnehmer können in der welt hinter dem spawn feedback los werden
+Wir beginnen immer mit dem Theorieteil: Folien mit der Mechanik, die gelernt wird, und dann die Aufgabenstellung.
+Dann evtl. Fragen in großer Runde, damit nichts falsch verstanden wurde.
+Dann Breakout-Rooms in Gruppen von 2-8 Teilnehmern, die dann untereinander reden und sich beim Aufgabenlösen helfen können.
+Die Mentoren wandern dann von Raum zu Raum und helfen bei Fragen.
+Fertige Teilnehmer können sich am Spawn mit der erspielten Belohnung Cosmetics kaufen ...shop.png...
+Nach Ablauf der Breakout-Räume folgt eine gemeinsame Frage-/Showcase-Runde und evtl. wird eine Musterlösung gezeigt.
+Feedback an die Mentoren fragen; Teilnehmer können in der Welt hinter dem Spawn Feedback loswerden.
 
 ### Einzelne Stunden:
 Schildkröte kennenlernen
 
-Schildkröte kennenlernen um mit der Fernbedienung den mysteriösen Gegenstand zu finden.
+Schildkröte kennenlernen, um mit der Fernbedienung den mysteriösen Gegenstand zu finden.
 Präsentation 1
 
-Video Erklärung: (alte Welt)
+Video-Erklärung: (alte Welt)
 YouTube Video
 Labyrinth
 
 Der Schildkröte den Weg durchs Labyrinth beibringen.
 Präsentation 2
 
-Video Erklärung: (alte Welt)
+Video-Erklärung: (alte Welt)
 YouTube Video
 
 
-Treppenbau challenge
+Treppenbau-Challenge
 
-Hier lernen wir Schleifen
+Hier lernen wir Schleifen.
 Präsentation 3
 
 
 Turtle City
 
 Heute schauen wir uns Turtle City an.
-Statt folien zeigen wir hier https://handbuch.kidslab.de/minecraft/turtlecity
+Statt Folien zeigen wir hier https://handbuch.kidslab.de/minecraft/turtlecity
 Turtle City
 
 
@@ -76,106 +76,104 @@ Hier lernen wir Schleifen in Schleifen, sehr mächtig.
 Präsentation 4
 
 
-Smargdmäher ohne Zählen
+Smaragdmäher ohne Zählen
 
-Die Schildkröte kann selber erkennen wann sie umdrehen muss.
+Die Schildkröte kann selber erkennen, wann sie umdrehen muss.
 Falls ... Dann ...
 Präsentation 5
 
 
-Zufalls Labyrinth
+Zufalls-Labyrinth
 
 Noch mehr:
-Was ist wenn...
-Falls ... Dann eMail mit allen Infos zum Kurs... Abfragen.
-Die Schildkröte lernt selber zu entscheiden.
+Was ist, wenn ...
+Falls ... Dann ... abfragen.
+Die Schildkröte lernt, selber zu entscheiden.
 Präsentation 6
 
 
 Holz fällen
 
 Jetzt darf die Schildkröte arbeiten gehen.
-Wir lernen Zufall zu nutzen und Unterprogramme zu starten.
+Wir lernen, Zufall zu nutzen und Unterprogramme zu starten.
 Präsentation 7
 
 
 Code'n'Run
 
 Finale Challenge
-alles zusammen
+Alles zusammen
 Präsentation 8
 
 
-## Server infrastruktur
-docker compose
-(1x workshop welt, 1x für template welt?)
+## Serverinfrastruktur
+Docker Compose
 
-docker starten
-- wenn keine welt im volume mapping: lädt welt von unserem git (https://github.com/KidsLabDe/MinecraftWorld-TurtleWorkshop)
-- wenn in volume mapping: die wird genutzt
+Docker starten
+- Wenn keine Welt im Volume-Mapping: lädt Welt von unserem Git (https://github.com/KidsLabDe/MinecraftWorld-TurtleWorkshop)
+- Wenn im Volume-Mapping: die wird genutzt
 
-Mentor Account ingame freischalten:
-minecraft befehle: 
+Mentor-Account ingame freischalten:
+Minecraft-Befehle:
 scoreboard ....
-erlaubt nutzen von karottenrute, und teleport in den technikraum
+erlaubt das Nutzen von Karottenrute und Teleport in den Technikraum
 op ...
-erlaubt das nutzen von befehlen wie /op weitererMentor, /tp, /give oder /gamemode
+erlaubt das Nutzen von Befehlen wie /op weitererMentor, /tp, /give oder /gamemode
 
 ## Ingame für Kurs-Mentoren
 ### Immer wieder wichtig:
-- Beim betreten wird man immer zum start teleportiert, dies ermöglicht jedem teilnehmer zurück zu kehren. z.B. falls er/sie sich eingesperrt hat.
-- Jeder Spieler (auch mentoren) werden beim betreten in Abenteuer modus gesetzt (nichts abbauen, nicht fliegen etc.) mit `/gamemode creative` können sich mentoren in den kreativ modus wechseln.
+- Beim Betreten wird man immer zum Start teleportiert; dies ermöglicht jedem Teilnehmer, zurückzukehren, z. B. falls er/sie sich eingesperrt hat.
+- Jeder Spieler (auch Mentoren) wird beim Betreten in den Abenteuermodus gesetzt (nichts abbauen, nicht fliegen etc.). Mit dem Befehl `/gamemode creative` können Mentoren in den Kreativmodus wechseln.
 #### Karottenrute
 ...carrot_on_a_stick_inv.png...
-damit rechtslkick -> zuschauer modus: durch blöcke fliegen
-im zuschauermodus mausrad scrollen: schneller / langsamer fliegen
-im zuschauermodus gerade nach oben schauen: zurück in kreativ modus
-im zuschauermodus bist du für teilnehmer unsichtbar
+damit Rechtsklick -> Zuschauermodus: durch Blöcke fliegen
+im Zuschauermodus Mausrad scrollen: schneller / langsamer fliegen
+im Zuschauermodus gerade nach oben schauen: zurück in den Kreativmodus
+im Zuschauermodus bist du für Teilnehmer unsichtbar
 
 #### Befehl /tp
-befehle gibt man mit "/" im chat ein. also chat mit "t" öffnen, dann "/" und dann den befehl "tp"
+Befehle gibt man mit "/" im Chat ein. Also Chat mit "t" öffnen, dann "/" und dann den Befehl "tp".
 
-tp = teleport und teleportiert dich oder teilnehmer
+tp = teleport und teleportiert dich oder Teilnehmer
 
 **Beispiel**
 ...tp_beispiel.png...
 ```/tp SpielerName```
-teleportiert dich zu dem Spieler der SpielerName heißt
+teleportiert dich zu dem Spieler, der SpielerName heißt
 
 ```/tp 0 20 0```
-teleportiert dich zum start.
+teleportiert dich zum Start.
 
 ```/tp SpielerName 0 20 0```
-Teleportiert spielername zum anfang
+teleportiert SpielerName zum Anfang
 
 ```/tp @a 0 20 0```
-teleportiert alle zum anfang
+teleportiert alle zum Anfang
 
 ```/tp @a @p```
-Teleportiert alle zu dir.
+teleportiert alle zu dir.
 
-#### Technik raum / Lehrerzimmer:
+#### Technikraum / Lehrerzimmer:
 ##### Mauern:
 ...mauern.png...
-diese mauern trennen die level, und können zu beginn der kurs stunde weg gemacht werden wenn das level dahinter erreichbar sein soll
+Diese Mauern trennen die Level und können zu Beginn der Kursstunde weggemacht werden, wenn das Level dahinter erreichbar sein soll.
 ...mauer_hebel_technik_raum.png...
-jeder hebel hier kontrolliert eine mauer
-- hebel oben: mauer weg
-- hebel unten: maer da
+Jeder Hebel hier kontrolliert eine Mauer
+- Hebel oben: Mauer weg
+- Hebel unten: Mauer da
 
 __Hinweise__:
-- Mithilfe der Schildkröten können kreative teilnehmer immer einen weg über die Mauer finden
-- Die Hebel machen die mauern nicht direkt weg. sie verschwinden sobald sich jemand nähert.
+- Mithilfe der Schildkröten können kreative Teilnehmer immer einen Weg über die Mauer finden. Wir wollten es nicht komplett unmöglich machen und loben kreativen umgang mit der Technik eher. Neu gelerntes Kreativ anwenden um eigene Ziele umzusetzen eigentlich genau das was man beim programmieren lernen erreichen will ;)
+- Die Hebel machen die Mauern nicht direkt weg. Sie verschwinden, sobald sich jemand nähert.
 
 
 ### Sonstiges
-#### CustomNPC tools
-npc wand
+#### CustomNPC-Tools
+NPC-Wand
 ...
 
 ### Support und Kontakt
 
-Gerne können die Inhalte von Lehrern oder Erziehern für eigene Stunden genutzt werden. Die Inhalte stehen untec Creative Commons Lizenz: Namensnennung-Nicht (CC BY-NC).
+Gerne können die Inhalte von Lehrern oder Erziehern für eigene Stunden genutzt werden. Die Inhalte stehen unter Creative-Commons-Lizenz: Namensnennung-Nicht-kommerziell (CC BY-NC).
 
 Bei Fragen gerne melden: gregor@kidslab.de
-
