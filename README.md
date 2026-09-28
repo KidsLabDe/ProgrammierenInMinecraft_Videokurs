@@ -29,6 +29,7 @@ Die Lösungen für die einzelnen Stunden findest Du unter [Lösungen](/Lösungen
 
 ## Kursablauf
 ### Vor der ersten Kursstunde
+Teilnehmern wird bescheid gegeben, dass eine spezielle modded 1.8 Minecraft version installiert werden muss für den Workshop: https://handbuch.kidslab.de/minecraft/allgemeines/installation <!-- vtl aktualisieren auf prism launcher + statt testwelt, kurs welt? -->
 1 Termin **Technik-Check**  
 Eine Möglichkeit, BigBlueButton, Mikrofon, Minecraft-Mod-Installation etc. zu testen und noch Hilfe hierfür anzubieten, damit im Kurs alles glatt läuft und nicht einzelne, die die Mod noch nicht haben, nicht mitmachen können bzw. einzelnen Helfen alle anderen ausbremst.
 ### Jede Kursstunde
