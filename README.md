@@ -33,6 +33,7 @@ Teilnehmern wird bescheid gegeben, dass eine spezielle modded 1.8 Minecraft vers
 1 Termin **Technik-Check**  
 Eine Möglichkeit, BigBlueButton, Mikrofon, Minecraft-Mod-Installation etc. zu testen und noch Hilfe hierfür anzubieten, damit im Kurs alles glatt läuft und nicht einzelne, die die Mod noch nicht haben, nicht mitmachen können bzw. einzelnen Helfen alle anderen ausbremst.
 ### Jede Kursstunde
+Treffen in BigBlueButton.  
 Wir beginnen immer mit dem Theorieteil: Folien mit der Mechanik, die gelernt wird, und dann die Aufgabenstellung.  
 Dann evtl. Fragen in großer Runde, damit nichts falsch verstanden wurde.  
 Dann Breakout-Rooms in Gruppen von 2-8 Teilnehmern, die dann untereinander reden und sich beim Aufgabenlösen helfen können.  
