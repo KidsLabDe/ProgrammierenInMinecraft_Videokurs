@@ -1,4 +1,8 @@
 # MC Befehle
+
+vermutlich nicht up to date,
+hinweis, mcfunctions funktionieren nicht in 1.8. sie sind hier nur als dokumentation für die technik. aber nicht vollständig hier
+
 hier sind die Befehle, die in TurtleCity und in den Worksop Welten gebraucht werden,  
 um z.B. abgebaute RoboKröten wieder im Adventuremodus setzen zu können, oder den Spielmodus abhängig von der Region auf Turtile City umschalten zu können.
 
