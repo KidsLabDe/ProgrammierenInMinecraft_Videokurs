@@ -117,23 +117,32 @@ Alles zusammen
 
 
 ## Serverinfrastruktur
-Docker Compose
+auf https://minecraft-server.kidslab.de/ anmelden und server über webinterface starten.
+nur ein server auf einmal.
+namen für op personen angeben
 
-Docker starten
+
+# Docker Compose
+noch nicht umgesetzt:
+idee wäre:
 - Wenn keine Welt im Volume-Mapping: lädt Welt von unserem Git (https://github.com/KidsLabDe/MinecraftWorld-TurtleWorkshop)
 - Wenn im Volume-Mapping: die wird genutzt
 
-Mentor-Account ingame freischalten:  
-Minecraft-Befehle:  
-scoreboard ....  
-erlaubt das Nutzen von Karottenrute und Teleport in den Technikraum  
-op ...  
-erlaubt das Nutzen von Befehlen wie /op weitererMentor, /tp, /give oder /gamemode
 
 ## Ingame für Kurs-Mentoren
 ### Immer wieder wichtig:
 - Beim Betreten wird man immer zum Start teleportiert; dies ermöglicht jedem Teilnehmer, zurückzukehren, z. B. falls er/sie sich eingesperrt hat.
 - Jeder Spieler (auch Mentoren) wird beim Betreten in den Abenteuermodus gesetzt (nichts abbauen, nicht fliegen etc.). Mit dem Befehl `/gamemode creative` können Mentoren in den Kreativmodus wechseln.
+
+# Minecraft Name zu Mentor machen:  
+online über https://minecraft-server.kidslab.de/
+
+oder ingame mit Minecraft-Befehle:  
+scoreboard players set spielername isadmin 1  
+erlaubt das Nutzen von Karottenrute und Teleport in den Technikraum  
+op spielername  
+erlaubt das Nutzen von Befehlen wie /op weitererMentor, /tp, /give oder /gamemode
+
 #### Karottenrute
 ![Karottenrute](Screenshots/carrot_on_a_stick_inv.png)  
 damit Rechtsklick -> Zuschauermodus: durch Blöcke fliegen  
